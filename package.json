@@ -1,0 +1,21 @@
+{
+  "name": "json_deploy_mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniketghormare/json_deploy_mock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniketghormare/json_deploy_mock/issues"
+  },
+  "homepage": "https://github.com/aniketghormare/json_deploy_mock#readme"
+}
